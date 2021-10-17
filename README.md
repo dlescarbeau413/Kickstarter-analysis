@@ -4,7 +4,7 @@ The Kickstarter data gave us an insight into different trends for different crow
 
 A majority of these crowdfunding projects either failed or they were successful. Very little of these projects were canceled even though we only looked a few categories. For the first part of the challenge, we looked at the Outcomes based on launch date for the “Theater” parent category. 
 
-![](images/Theater Outcomes Based on Launch Date.png)
+![](Images/Theater%20Outcomes%20Based%20on%20Launch%20Date.png)
 
  Before we even created the pivot chart “Theater Outcomes based on launch date”, we were able to split the Category and subcategory column to help filter this data. After spilting the category and sub category column, we were able to create this pivot table. In this pivot table, we were able to take the number of successful, failed and canceled crowdfunding projects and make a visual representation to see what impact the launch date made on the outcome of the project. Looking at the “Theater” category, we can see that the most successful outcomes came between the months of April and August. The total number of successful outcomes between those months were 411 total successful. As the years went into the later months you can see that the number of successful outcomes steadily decreased. 
  
